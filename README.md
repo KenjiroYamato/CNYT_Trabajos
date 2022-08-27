@@ -18,4 +18,6 @@ los numeros complejos se representan como tuplas, en formato `(a, b)`
 a = parte real  
 b = parte imaginaria
 
+**la documentación de cada funcion se encuentra en formato DocString en el codigo**
+
 este proyecto se realiza con fines educativos para la clase de Ciencia Naturales y Tecnologia en la [Escuela Colombiana de Ingenieria Julio Garavito](https://www.escuelaing.edu.co/es/)
