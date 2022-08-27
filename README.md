@@ -1,6 +1,6 @@
 # Tarea 1 Juan Pablo Camargo
 
-### ¿como usar la libreria: lib_complax_cal?
+### ¿como usar la libreria: lib_complex_cal?
 
 ejemplo:
 
